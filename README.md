@@ -40,4 +40,4 @@ echo "All Python files were applied the code review."
 exit 0
 ```
 - Add or modify the python files.
-- Apply a commit message and wait for the review. I could take some minutes, the final result is a readme.md with all suggestions from codellama.
+- Apply a commit message and wait for the review. I could take some minutes, the final result is a review.md with all suggestions from codellama.
