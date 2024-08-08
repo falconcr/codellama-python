@@ -12,7 +12,7 @@ This project sets up an Ollama Docker container and integrates a "pre-commit" ho
 ## Step 1. Clone the repository
 
 ```
-git clone [https://github.com/dockersamples/codellama-python](https://github.com/falconcr/codellama-python)
+git clone https://github.com/falconcr/codellama-python
 ```
 
 
